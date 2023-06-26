@@ -1,7 +1,7 @@
-We are looking for a:
+:shipit:We are looking for a:
 
 # Semi-Senior Frontend React Developer
-# Contractor Fulltime
+### Contractor Fulltime
 
 Cloudnonic, an international fully remote cloud and software service company, is looking for a Semi-Senior Frontend Developer to join our awesome team. Be part of something special and make our European and North American clients happy by developing customized cloud-native systems in a variety of industries using the latest technologies.
 
@@ -47,30 +47,30 @@ We are welcoming a self-starter and self-motivated engineer that can organize hi
 
 ## What Do We Offer?
 
-Fully Remote: WFH (work from home) or anywhere you want. We embrace the location-independent way of working, and we know you do too.
+**Fully Remote:** WFH (work from home) or anywhere you want. We embrace the location-independent way of working, and we know you do too.
 
-Huge Technical Exposure: The number of technologies and challenges you’ll be facing in a short amount of time is spectacular. Ever experienced that you got bored by the same repositories. That’s not going to happen at CloudNonic.
+**Huge Technical Exposure:** The number of technologies and challenges you’ll be facing in a short amount of time is spectacular. Ever experienced that you got bored by the same repositories. That’s not going to happen at CloudNonic.
 
-International Global Client Exposure: Our clients are based in the US, Canada, Germany, Colombia, among other countries. We are excited about the different languages, (corporate) cultures and people you’ll get to work with.
+**International Global Client Exposure:** Our clients are based in the US, Canada, Germany, Colombia, among other countries. We are excited about the different languages, (corporate) cultures and people you’ll get to work with.
 
-Competitive Pay: Depending on your seniority and skill level we offer a competitive monthly pay at your local market rate. By the way, we can pay you in any currency you prefer.
+**Competitive Pay:** Depending on your seniority and skill level we offer a competitive monthly pay at your local market rate. By the way, we can pay you in any currency you prefer.
 
-Payment in Crypto: We offer to pay in cryptocurrency, in case you want.
+**Payment in Crypto:** We offer to pay in cryptocurrency, in case you want.
 
-Uber Credit: Everybody needs an Uber at some point during the month. At Cloudnonic you'll be covered with a monthly Uber credit.
+**Uber Credit:** Everybody needs an Uber at some point during the month. At Cloudnonic you'll be covered with a monthly Uber credit.
 
-Fulltime Contractor: We know you manage your money better than any employer could ever do. That’s why we appreciate you as a contractor to streamline your finances. (Please make sure you know your responsibilities as a contractor)
+**Fulltime Contractor:** We know you manage your money better than any employer could ever do. That’s why we appreciate you as a contractor to streamline your finances. (Please make sure you know your responsibilities as a contractor)
 
-Flexible Work Time: At CloudNonic we know that everyone is different and has different schedules and biological rhythms. We work in multiple time zones. You can work whenever you want because we trust you to get your stuff done.
+**Flexible Work Time:** At CloudNonic we know that everyone is different and has different schedules and biological rhythms. We work in multiple time zones. You can work whenever you want because we trust you to get your stuff done.
 
-Great Company Culture: We want to have fun and a great time while we work. We think the time of a hierarchical strict corporate culture is over. We are convinced that it’s possible to find the balance between working hard, feeling accomplished while enjoying the journey by having a good time.
+**Great Company Culture:** We want to have fun and a great time while we work. We think the time of a hierarchical strict corporate culture is over. We are convinced that it’s possible to find the balance between working hard, feeling accomplished while enjoying the journey by having a good time.
 
-Gaming: Who doesn’t have fun playing an online game in Steam against your colleagues while being connected in Discord. Yep, that’s what we do at CloudNonic.
+**Gaming:** Who doesn’t have fun playing an online game in Steam against your colleagues while being connected in Discord. Yep, that’s what we do at CloudNonic.
 
-Professional Development: At CloudNonic we want to foster the growth of knowledge, that’s why we sponsor online courses and certifications on demand.
+**Professional Development:** At CloudNonic we want to foster the growth of knowledge, that’s why we sponsor online courses and certifications on demand.
 
-Career Development: Develop your career within multiple industries and get knowledge not only about code but expertise about an industry.
+**Career Development:** Develop your career within multiple industries and get knowledge not only about code but expertise about an industry.
 
 ## Interested?
 
-If your interest got stirred reading this job description and you fulfill the minimum requirements, please apply in LinkedIn with your CV or send your CV to jobs@cloudnonic.com
+If your interest got stirred reading this job description and you fulfill the minimum requirements, please apply in [LinkedIn](https://www.linkedin.com/company/cloudnonic-corp/jobs/) with your CV or send your CV to :email: [jobs@cloudnonic.com](mailto:jobs@cloudnonic.com)
