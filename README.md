@@ -23,6 +23,6 @@ Experience a supportive environment that values your ideas and nurtures your cre
 
 ### Jobs
 
-- [Semi-Senior Frontend React Developer](https://github.com/cloudnonic/careers/jobs/semi-senior-frontend-react-developer.md)
-- [Semi-Senior Fullstack React / Python (Django) Developer](https://github.com/cloudnonic/careers/jobs/semi-senior-fullstack-react-django.md)
-- [Semi-Senior Fullstack React / Node.js / Python Developer](https://github.com/cloudnonic/careers/jobs/semi-senior-fullstack-react-nodejs.md)
+- [Semi-Senior Frontend React Developer](/jobs/semi-senior-frontend-react-developer.md)
+- [Semi-Senior Fullstack React / Python (Django) Developer](/jobs/semi-senior-fullstack-react-django.md)
+- [Semi-Senior Fullstack React / Node.js / Python Developer](/jobs/semi-senior-fullstack-react-nodejs.md)
