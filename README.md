@@ -1,5 +1,5 @@
 # Cloudnonic Jobs
-![https://cloudnonic.com/careers](/img/Logo.svg)
+![https://cloudnonic.com/careers](/img/logo-10.jpg)
 
 - [Our services](#our-services)
 - [About us](#about-us)
